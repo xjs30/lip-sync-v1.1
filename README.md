@@ -1,4 +1,5 @@
 唇同步大模型 v1.1
+
 Lip Sync v1.1 是一个先进的多模态唇同步模型，能够根据音频或文本输入生成与语音同步的唇部动画。该模型支持多种语言，具有高度的准确性和自然度，适用于虚拟主播、动画制作、语音驱动头像等多种应用场景。
 功能特点
 多模态输入：支持音频文件或文本直接驱动唇形生成
@@ -140,6 +141,6 @@ OpenAI's Diffusion Models
 HuggingFace Transformers
 联系方式
 如有任何问题或建议，请联系：
-项目维护者：[豆包]
-邮箱：[chuyiluo123@outlook.com]
-GitHub：[https://github.com/xjs30]
+项目维护者：[yourname]
+邮箱：[youremail@example.com]
+GitHub：[https://github.com/yourusername]
