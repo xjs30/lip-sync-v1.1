@@ -141,6 +141,6 @@ OpenAI's Diffusion Models
 HuggingFace Transformers
 联系方式
 如有任何问题或建议，请联系：
-项目维护者：[yourname]
-邮箱：[youremail@example.com]
-GitHub：[https://github.com/yourusername]
+项目维护者：[xjs]
+邮箱：[chuyiluo123@outlook.com]
+GitHub：[https://github.com/xjs30]
